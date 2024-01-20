@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome
+
+I've been passionate about Maths and tech from a very young age. Now, I'm combining both of those passions in my work as a backend engineer. Java and Spring Boot are my bread and butter, but I'm expanding my language horizons constantly. 
+
 
 <!--
 **Yasith-Banuka/Yasith-Banuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
